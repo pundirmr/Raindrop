@@ -1,0 +1,20 @@
+{
+  "name": "com.lumoslabs.raindrops",
+  "displayName": "Lumos Labs Game: Raindrops",
+  "version": "0.0.16",
+  "unity": "2019.4",
+  "description": "Raindrops",
+  "timestamp": 1661576410731,
+  "timestamp_readable": "Sat, 27 Aug 2022 05:00:10 GMT",
+  "dependencies": {
+    "com.lumoslabs.unitysharedcore": "https://gitlab+deploy-token-786260:mTjEZDs15NsftLfPRDUi@gitlab.com/lumoslabs/games/cognitive/unity/cug-shared-core.git?path=/Assets#core-1.0.52",
+    "com.lumoslabs.pillar": "https://gitlab+deploy-token-845397:1i-sXsACDU1fhFwuTMza@gitlab.com/lumoslabs/games/cognitive/unity/cug-shared-pillar.git?path=/Assets#pillar-1.0.0",
+    "com.lumoslabs.sharedassets": "https://gitlab+deploy-token-854033:xK3ASHQoyBzf-iBY-ZxX@gitlab.com/lumoslabs/games/cognitive/unity/cug-shared-assets.git?path=/Assets#shared-assets-0.0.14",
+    "com.unity.ide.rider": "1.2.1",
+    "com.unity.ide.vscode": "1.2.3",
+    "com.unity.test-framework": "1.1.24",
+    "com.unity.textmeshpro": "2.1.6",
+    "com.unity.ugui": "1.0.0",
+    "com.unity.vectorgraphics": "2.0.0-preview.12"
+  }
+}

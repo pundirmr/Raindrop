@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: 31a6727c5a2299b4a822f283dc1d1533
+timeCreated: 1473069322
+licenseType: Pro
+NativeFormatImporter:
+  userData: '
+
+    <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink"
+    preserveAspectRatio="none" x="0px" y="0px" width="640px" height="480px" viewBox="0
+    0 640 480">
+
+    <defs>
+
+    <g id="Layer5_0_FILL">
+
+    <path fill="#FFFFFF" fill-opacity="0.1568627450980392" stroke="none" d="
+
+    M -10.8 -103
+
+    Q -11.5 -102.35 -11.5 -101.4 -11.5 -100.45 -10.8 -99.8 -10.15 -99.1 -9.25 -99.1
+    -8.25 -99.1 -7.6 -99.8 -6.9 -100.45 -6.9 -101.4 -6.9 -102.35 -7.6 -103 -8.25 -103.7
+    -9.25 -103.7 -10.15 -103.7 -10.8 -103 Z"/>
+
+    </g>
+
+
+    <g id="Layer4_0_FILL">
+
+    <path fill="#FFFFFF" fill-opacity="0.03137254901960784" stroke="none" d="
+
+    M 7.55 -115.65
+
+    Q 7.55 -116.3 7.1 -116.8 6.6 -117.25 5.95 -117.25 5.25 -117.25 4.8 -116.8 4.35
+    -116.3 4.35 -115.65 4.35 -115 4.8 -114.5 5.25 -114.05 5.95 -114.05 6.6 -114.05
+    7.1 -114.5 7.55 -115 7.55 -115.65 Z"/>
+
+    </g>
+
+
+    <g id="Layer3_0_FILL">
+
+    <path fill="#FFFFFF" fill-opacity="0.03137254901960784" stroke="none" d="
+
+    M 12.5 -89.75
+
+    Q 12.5 -91.4 11.3 -92.55 10.15 -93.75 8.45 -93.75 6.8 -93.75 5.65 -92.55 4.5 -91.4
+    4.5 -89.75 4.5 -88.05 5.65 -86.9 6.8 -85.75 8.45 -85.75 10.15 -85.75 11.3 -86.9
+    12.5 -88.05 12.5 -89.75 Z"/>
+
+    </g>
+
+
+    <g id="Layer2_0_FILL">
+
+    <path fill="#FFFFFF" fill-opacity="0.1568627450980392" stroke="none" d="
+
+    M 11.7 -39
+
+    Q 11 -38.35 11 -37.4 11 -36.45 11.7 -35.8 12.35 -35.1 13.25 -35.1 14.25 -35.1
+    14.9 -35.8 15.6 -36.45 15.6 -37.4 15.6 -38.35 14.9 -39 14.25 -39.7 13.25 -39.7
+    12.35 -39.7 11.7 -39 Z"/>
+
+    </g>
+
+
+    <g id="Layer1_0_FILL">
+
+    <path fill="#FFFFFF" fill-opacity="0.03137254901960784" stroke="none" d="
+
+    M -15 -33.25
+
+    Q -15 -34.9 -16.2 -36.05 -17.35 -37.25 -19.05 -37.25 -20.7 -37.25 -21.85 -36.05
+    -23 -34.9 -23 -33.25 -23 -31.55 -21.85 -30.4 -20.7 -29.25 -19.05 -29.25 -17.35
+    -29.25 -16.2 -30.4 -15 -31.55 -15 -33.25 Z"/>
+
+    </g>
+
+
+    <g id="Layer0_0_FILL">
+
+    <path fill="#FFFFFF" fill-opacity="0.13333333333333333" stroke="none" d="
+
+    M 2.95 -56.7
+
+    Q 2.95 -58.65 1.6 -60 0.25 -61.35 -1.7 -61.35 -3.6 -61.35 -4.95 -60 -6.35 -58.65
+    -6.35 -56.7 -6.35 -54.75 -4.95 -53.4 -3.6 -52.05 -1.7 -52.05 0.25 -52.05 1.6 -53.4
+    2.95 -54.75 2.95 -56.7 Z"/>
+
+    </g>
+
+
+    <path id="Layer5_0_1_STROKES" stroke="#DBDBDB" stroke-opacity="0" stroke-width="3"
+    stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+
+    M -11.5 -101.4
+
+    Q -11.5 -102.35 -10.8 -103 -10.15 -103.7 -9.25 -103.7 -8.25 -103.7 -7.6 -103 -6.9
+    -102.35 -6.9 -101.4 -6.9 -100.45 -7.6 -99.8 -8.25 -99.1 -9.25 -99.1 -10.15 -99.1
+    -10.8 -99.8 -11.5 -100.45 -11.5 -101.4 Z"/>
+
+
+    <path id="Layer4_0_1_STROKES" stroke="#FFFFFF" stroke-opacity="0" stroke-width="3.5"
+    stroke-linejoin="round" stroke-linecap="butt" fill="none" d="
+
+    M 7.55 -115.65
+
+    Q 7.55 -115 7.1 -114.5 6.6 -114.05 5.95 -114.05 5.25 -114.05 4.8 -114.5 4.35 -115
+    4.35 -115.65 4.35 -116.3 4.8 -116.8 5.25 -117.25 5.95 -117.25 6.6 -117.25 7.1
+    -116.8 7.55 -116.3 7.55 -115.65 Z"/>
+
+
+    <path id="Layer3_0_1_STROKES" stroke="#FFFFFF" stroke-opacity="0" stroke-width="3.5"
+    stroke-linejoin="round" stroke-linecap="butt" fill="none" d="
+
+    M 12.5 -89.75
+
+    Q 12.5 -88.05 11.3 -86.9 10.15 -85.75 8.45 -85.75 6.8 -85.75 5.65 -86.9 4.5 -88.05
+    4.5 -89.75 4.5 -91.4 5.65 -92.55 6.8 -93.75 8.45 -93.75 10.15 -93.75 11.3 -92.55
+    12.5 -91.4 12.5 -89.75 Z"/>
+
+
+    <path id="Layer2_0_1_STROKES" stroke="#DBDBDB" stroke-opacity="0" stroke-width="3"
+    stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+
+    M 11 -37.4
+
+    Q 11 -38.35 11.7 -39 12.35 -39.7 13.25 -39.7 14.25 -39.7 14.9 -39 15.6 -38.35
+    15.6 -37.4 15.6 -36.45 14.9 -35.8 14.25 -35.1 13.25 -35.1 12.35 -35.1 11.7 -35.8
+    11 -36.45 11 -37.4 Z"/>
+
+
+    <path id="Layer1_0_1_STROKES" stroke="#FFFFFF" stroke-opacity="0" stroke-width="3.5"
+    stroke-linejoin="round" stroke-linecap="butt" fill="none" d="
+
+    M -15 -33.25
+
+    Q -15 -31.55 -16.2 -30.4 -17.35 -29.25 -19.05 -29.25 -20.7 -29.25 -21.85 -30.4
+    -23 -31.55 -23 -33.25 -23 -34.9 -21.85 -36.05 -20.7 -37.25 -19.05 -37.25 -17.35
+    -37.25 -16.2 -36.05 -15 -34.9 -15 -33.25 Z"/>
+
+    </defs>
+
+
+    <g transform="matrix( 1, 0, 0, 1, 0,0) ">
+
+    <use xlink:href="#Layer5_0_FILL"/>
+
+
+    <use xlink:href="#Layer5_0_1_STROKES"/>
+
+    </g>
+
+
+    <g transform="matrix( 1, 0, 0, 1, 0,0) ">
+
+    <use xlink:href="#Layer4_0_FILL"/>
+
+
+    <use xlink:href="#Layer4_0_1_STROKES"/>
+
+    </g>
+
+
+    <g transform="matrix( 1, 0, 0, 1, 0,0) ">
+
+    <use xlink:href="#Layer3_0_FILL"/>
+
+
+    <use xlink:href="#Layer3_0_1_STROKES"/>
+
+    </g>
+
+
+    <g transform="matrix( 1, 0, 0, 1, 0,0) ">
+
+    <use xlink:href="#Layer2_0_FILL"/>
+
+
+    <use xlink:href="#Layer2_0_1_STROKES"/>
+
+    </g>
+
+
+    <g transform="matrix( 1, 0, 0, 1, 0,0) ">
+
+    <use xlink:href="#Layer1_0_FILL"/>
+
+
+    <use xlink:href="#Layer1_0_1_STROKES"/>
+
+    </g>
+
+
+    <g transform="matrix( 1, 0, 0, 1, 0,0) ">
+
+    <use xlink:href="#Layer0_0_FILL"/>
+
+    </g>
+
+    </svg>
+
+'
+  assetBundleName: 
+  assetBundleVariant: 

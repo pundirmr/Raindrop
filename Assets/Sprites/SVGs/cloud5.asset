@@ -1,0 +1,189 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35648741dd5b14baa82bec08abfe7457, type: 3}
+  m_Name: cloud5
+  m_EditorClassIdentifier: 
+  _lastTimeModified: 636080672515716446
+  _documentAsset: {fileID: 114000011988063050}
+  _sharedMesh: {fileID: 43000012577733852}
+  _antialiasing: 0
+  _antialiasingWidth: 1
+  _generateCollider: 0
+  _keepSVGFile: 0
+  _ignoreSVGCanvas: 1
+  _colliderShape: []
+  _format: 2
+  _useGradients: 1
+  _meshCompression: 0
+  _optimizeMesh: 1
+  _generateNormals: 0
+  _generateTangents: 0
+  _scale: 0.01
+  _vpm: 3500
+  _depthOffset: 0.01
+  _compressDepth: 1
+  _pivotPoint: {x: 0, y: 0}
+  _customPivotPoint: 0
+  _border: {x: 0, y: 0, z: 0, w: 0}
+  _sliceMesh: 0
+  _sharedGradients: []
+  _sharedShaders:
+  - SVG Importer/SolidColor/SolidColorAlphaBlended
+  _canvasRectangle:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0.93
+    height: 0.315
+  _layers: []
+--- !u!43 &43000012577733852
+Mesh:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: cloud5
+  serializedVersion: 8
+  m_SubMeshes:
+  - serializedVersion: 2
+    firstByte: 0
+    indexCount: 141
+    topology: 0
+    firstVertex: 0
+    vertexCount: 49
+    localAABB:
+      m_Center: {x: 0.45000002, y: -0.148, z: -0}
+      m_Extent: {x: 0.45000002, y: 0.148, z: 0}
+  m_Shapes:
+    vertices: []
+    shapes: []
+    channels: []
+    fullWeights: []
+  m_BindPose: []
+  m_BoneNameHashes: 
+  m_RootBoneNameHash: 0
+  m_MeshCompression: 0
+  m_IsReadable: 1
+  m_KeepVertices: 1
+  m_KeepIndices: 1
+  m_IndexBuffer: 00000100020000000300010000000400030000000500040000000600050000000700060000000800070000000900080000000a0009000a000b000c000a000d000b000a000e000d000a000f000e000a0010000f000a00110010000a00120011000a00130012000a00140013000a00150014000a00160015000a00170016000a00180017000a00190018000a001a00190000001a000a0000001b001a0000001c001b0000001d001c0000001e001d0000001f001e00000020001f00000021002000220021000000220023002100240023002200250023002400250026002300270026002500270028002600290028002700280029002a001e002b001d002c002b001e002c002d002b002e002d002c002e002f002d002f002e003000
+  m_Skin: []
+  m_VertexData:
+    m_CurrentChannels: 5
+    m_VertexCount: 49
+    m_Channels:
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 3
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 12
+      format: 2
+      dimension: 4
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    m_DataSize: 784
+    _typelessdata: 6766663f508d97be00000080ffffffff1535603f032680be00000080ffffffffbcd0643fbf4d8fbe00000080ffffffff1b2f5d3f21b072be00000080ffffffffe0845a3f85f068be00000080ffffffff50c2543f794059be00000080ffffffff4c6c4e3fc5b14ebe00000080ffffffffd482473f9e5e49be00000080ffffffff0ad7433f39b448be00000080ffffffff2b4d423fafd348be00000080ffffffff9cc4403f5eba49be00000080ffffffff02d93b3fdc4b1abe00000080ffffffff5e633f3f477239be00000080ffffffffcf49373fe5d5f9bd00000080ffffffffaebb313fa96ac2bd00000080ffffffff8e972e3f9eefa7bd00000080ffffffff80f62b3ffb7993bd00000080fffffffffe7d263f1b2f5dbd00000080ffffffffbebc203f86251ebd00000080ffffffff10b41a3f865ad3bc00000080ffffffff9964143f42437fbc00000080ffffffff5bce0d3fc61602bc00000080ffffffffa6f2063f12c73abb00000080ffffffff41a4ff3e7f87a2b900000080ffffffffec51f83e0000008000000080fffffffff8fcf03e7f87a2b900000080ffffffff21b0e23e12c73abb00000080ffffffffbde3d43ec61602bc00000080ffffffff1c99c73e42437fbc00000080ffffffff7cd5ba3e865ad3bc00000080ffffffff6bbc743ef96b12be00000080ffffffffe431633ed7a310be00000080ffffffff61e5503eaf5f10be00000080ffffffffbd003b3e356311be00000080ffffffff00000000508d97be00000080ffffffff0495113e2c6519be00000080ffffffffa661783b3eed90be00000080ffffffff6ee2643c364184be00000080ffffffffd7c0d63d225429be00000080ffffffff3997e23c92b370be00000080ffffffff59fa903de01541be00000080fffffffffb27383df06d5abe00000080ffffffffaf47613d9ddc4fbe00000080ffffffffdd98ae3e86251ebd00000080ffffffff14b37e3ef7e401be00000080ffffffff7de8a23e1b2f5dbd00000080ffffffff876d8b3e9487c5bd00000080ffffffff4bc8973efb7993bd00000080ffffffff986e923e60eaa7bd00000080ffffffff
+  m_CompressedMesh:
+    m_Vertices:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UV:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Normals:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Tangents:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Weights:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_NormalSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_TangentSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_FloatColors:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_BoneIndices:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Triangles:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UVInfo: 0
+  m_LocalAABB:
+    m_Center: {x: 0.45000002, y: -0.148, z: -0}
+    m_Extent: {x: 0.45000002, y: 0.148, z: 0}
+  m_MeshUsageFlags: 0
+  m_BakedConvexCollisionMesh: 
+  m_BakedTriangleCollisionMesh: 
+  m_MeshOptimized: 0
+--- !u!114 &114000011988063050
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 363e9872ad27a4ca59c07d233fdf0023, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _errors: 
+  _svgFile: 
+  _title: 
+  _description: 

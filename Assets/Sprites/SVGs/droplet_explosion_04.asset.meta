@@ -1,0 +1,99 @@
+fileFormatVersion: 2
+guid: 27416926a5f8b2749b71168cde34e30f
+timeCreated: 1471342835
+licenseType: Pro
+NativeFormatImporter:
+  userData: '
+
+    <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink"
+    preserveAspectRatio="none" x="0px" y="0px" width="640px" height="480px" viewBox="0
+    0 640 480">
+
+    <defs>
+
+    <g id="Layer6_0_MEMBER_0_FILL">
+
+    <path fill="#FFFFFF" stroke="none" d="
+
+    M 240.95 230.05
+
+    Q 240.95 225.95 238.05 223.1 235.15 220.2 231.1 220.2 227 220.2 224.15 223.1 221.25
+    225.95 221.25 230.05 221.25 234.1 224.15 237 227 239.85 231.1 239.85 235.15 239.85
+    238.05 237 240.95 234.1 240.95 230.05 Z"/>
+
+    </g>
+
+
+    <g id="Layer6_0_MEMBER_1_FILL">
+
+    <path fill="#214D63" stroke="none" d="
+
+    M 889.35 105.2
+
+    Q 887.6 107 887.6 109.45 887.6 111.9 889.35 113.65 891.15 115.4 893.6 115.4 896.05
+    115.4 897.8 113.65 899.55 111.9 899.55 109.45 899.55 106.95 897.8 105.2 896.05
+    103.45 893.6 103.45 891.15 103.45 889.35 105.2 Z"/>
+
+    </g>
+
+
+    <g id="Layer6_0_MEMBER_2_FILL">
+
+    <path fill="#FFFFFF" stroke="none" d="
+
+    M 72.6 212.65
+
+    Q 70.6 210.7 67.85 210.7 65.05 210.7 63.1 212.65 61.15 214.6 61.15 217.4 61.15
+    220.15 63.1 222.1 65.1 224.1 67.85 224.1 70.6 224.1 72.6 222.1 74.55 220.15 74.55
+    217.4 74.55 214.6 72.6 212.65 Z"/>
+
+    </g>
+
+
+    <g id="Layer6_0_MEMBER_3_FILL">
+
+    <path fill="#214D63" stroke="none" d="
+
+    M -11.05 115.05
+
+    Q -9.9 114 -9.9 112.4 -9.9 110.85 -11.05 109.7 -12.1 108.55 -13.7 108.55 -15.25
+    108.55 -16.4 109.7 -17.55 110.85 -17.55 112.4 -17.55 114 -16.4 115.05 -15.25 116.2
+    -13.7 116.2 -12.1 116.2 -11.05 115.05 Z"/>
+
+    </g>
+
+    </defs>
+
+
+    <g transform="matrix( 0.5, 0, 0, 0.5, -71,-75) ">
+
+    <use xlink:href="#Layer6_0_MEMBER_0_FILL"/>
+
+    </g>
+
+
+    <g transform="matrix( 0.5, 0, 0, 0.5, -402.25,-14.7) ">
+
+    <use xlink:href="#Layer6_0_MEMBER_1_FILL"/>
+
+    </g>
+
+
+    <g transform="matrix( 0.5, 0, 0, 0.5, -71,-75) ">
+
+    <use xlink:href="#Layer6_0_MEMBER_2_FILL"/>
+
+    </g>
+
+
+    <g transform="matrix( 0.5, 0, 0, 0.5, -30.25,-22.5) ">
+
+    <use xlink:href="#Layer6_0_MEMBER_3_FILL"/>
+
+    </g>
+
+    </svg>
+
+'
+  assetBundleName: 
+  assetBundleVariant: 

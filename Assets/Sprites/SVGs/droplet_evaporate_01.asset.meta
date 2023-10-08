@@ -1,0 +1,53 @@
+fileFormatVersion: 2
+guid: 41b793c5178e42b459c7b184e0e69eb4
+timeCreated: 1473069322
+licenseType: Pro
+NativeFormatImporter:
+  userData: '
+
+    <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink"
+    preserveAspectRatio="none" x="0px" y="0px" width="640px" height="480px" viewBox="0
+    0 640 480">
+
+    <defs>
+
+    <g id="Layer6_0_FILL">
+
+    <path fill="#FFFFFF" stroke="none" d="
+
+    M 15 -26.45
+
+    Q 7.5 -35.75 0 -42 -7.5 -35.85 -15 -26.6 -30 -8.1 -30 7.35 -30 20.05 -21.25 29.05
+    -12.45 38 0 38 12.4 38 21.2 29.05 30 20.05 30 7.35 30 -7.85 15 -26.45
+
+    M 0 -37.5
+
+    Q 6.35 -31.9 12.75 -23.7 25.5 -7.35 25.5 5.55 25.5 16.3 18 23.9 10.55 31.5 0 31.5
+    -10.6 31.5 -18.1 23.9 -25.5 16.3 -25.5 5.55 -25.5 -7.55 -12.75 -23.85 -6.4 -32
+    0 -37.5 Z"/>
+
+
+    <path fill="#214D63" stroke="none" d="
+
+    M 12.75 -23.7
+
+    Q 6.35 -31.9 0 -37.5 -6.4 -32 -12.75 -23.85 -25.5 -7.55 -25.5 5.55 -25.5 16.3
+    -18.1 23.9 -10.6 31.5 0 31.5 10.55 31.5 18 23.9 25.5 16.3 25.5 5.55 25.5 -7.35
+    12.75 -23.7 Z"/>
+
+    </g>
+
+    </defs>
+
+
+    <g transform="matrix( 1, 0, 0, 1, 0,0) ">
+
+    <use xlink:href="#Layer6_0_FILL"/>
+
+    </g>
+
+    </svg>
+
+'
+  assetBundleName: 
+  assetBundleVariant: 

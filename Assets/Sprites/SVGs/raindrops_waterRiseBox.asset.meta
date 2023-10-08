@@ -1,0 +1,37 @@
+fileFormatVersion: 2
+guid: d2a4d6a8cf56d134caee7f01e1156b65
+timeCreated: 1471342836
+licenseType: Pro
+NativeFormatImporter:
+  userData: '
+
+    <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink"
+    preserveAspectRatio="none" x="0px" y="0px" width="640px" height="480px" viewBox="0
+    0 640 480">
+
+    <defs>
+
+    <g id="Layer0_0_FILL">
+
+    <path fill="#214D63" stroke="none" d="
+
+    M 640 120
+
+    L 640 0 0 0 0 120 640 120 Z"/>
+
+    </g>
+
+    </defs>
+
+
+    <g transform="matrix( 1, 0, 0, 1, 0,0) ">
+
+    <use xlink:href="#Layer0_0_FILL"/>
+
+    </g>
+
+    </svg>
+
+'
+  assetBundleName: 
+  assetBundleVariant: 

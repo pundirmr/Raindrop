@@ -1,0 +1,213 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!43 &4341916
+Mesh:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: sharedAssets_circle
+  serializedVersion: 8
+  m_SubMeshes:
+  - serializedVersion: 2
+    firstByte: 0
+    indexCount: 210
+    topology: 0
+    firstVertex: 0
+    vertexCount: 72
+    localAABB:
+      m_Center: {x: 0, y: 0, z: -0}
+      m_Extent: {x: 0.39999998, y: 0.39999998, z: 0}
+  m_Shapes:
+    vertices: []
+    shapes: []
+    channels: []
+    fullWeights: []
+  m_BindPose: []
+  m_BoneNameHashes: 
+  m_RootBoneNameHash: 0
+  m_MeshCompression: 0
+  m_IsReadable: 1
+  m_KeepVertices: 1
+  m_KeepIndices: 1
+  m_IndexBuffer: 00000100020003000100000003000400010005000400030005000600040007000600050007000800060009000800070009000a0008000b000a0009000b000c000a000d000c000b000d000e000c000f000e000d000f0010000e00110010000f001100120010001300120011001300140012001500140013001500160014001500170016001800170015001800190017001a00190018001a001b0019001c001b001a001c001d001b001e001d001c001e001f001d0020001f001e00200021001f002200210020002200230021002400230022002400250023002600250024002600270025002800270026002800290027002a00290028002a002b0029002c002b002a002c002d002b002e002d002c002e002f002d0030002f002e00300031002f003200310030003200330031003400330032003500330034003500360033003700360035003700380036003700390038003a00390037003b0039003a003b003c0039003d003c003b003d003e003c003f003e003d003f0040003e00410040003f00410042004000410043004200440043004100450043004400450046004300460045004700
+  m_Skin: []
+  m_VertexData:
+    m_CurrentChannels: 29
+    m_VertexCount: 72
+    m_Channels:
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 3
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 12
+      format: 2
+      dimension: 4
+    - stream: 0
+      offset: 16
+      format: 0
+      dimension: 2
+    - stream: 0
+      offset: 24
+      format: 0
+      dimension: 2
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    m_DataSize: 2304
+    _typelessdata: 6ae3883e5c2598be00000080ffffffff00000000000000000000000000000000e2b9973e944d89be00000080ffffffff000000000000000000000000000000000061903e62e590be00000080ffffffff000000000000000000000000000000004c93723ece40a5be00000080ffffffff0000000000000000000000000000000006faa43e440973be00000080ffffffff00000000000000000000000000000000f8be513e367bb0be00000080ffffffff000000000000000000000000000000004651b03e6cde51be00000080ffffffff0000000000000000000000000000000034472f3e86d8b9be00000080ffffffff00000000000000000000000000000000eec0b93e80222fbe00000080ffffffff00000000000000000000000000000000a02e0b3eca54c1be00000080ffffffff00000000000000000000000000000000504ac13e1cd80abe00000080ffffffff0000000000000000000000000000000078eaca3da6f2c6be00000080ffffffff00000000000000000000000000000000b8eec63e440ecabd00000080ffffffff00000000000000000000000000000000b061783dcab0cabe00000080ffffffff00000000000000000000000000000000cab0ca3eb0dd76bd00000080ffffffff0000000000000000000000000000000060d6a83c8290ccbe00000080ffffffff000000000000000000000000000000008290cc3ee071a7bc00000080ffffffff0000000000000000000000000000000000000000ccccccbe00000080ffffffff00000000000000000000000000000000cccccc3e0000008000000080ffffffff0000000000000000000000000000000030eba8bc8290ccbe00000080ffffffff000000000000000000000000000000008290cc3e30eba83c00000080ffffffff00000000000000000000000000000000987678bdcab0cabe00000080ffffffff00000000000000000000000000000000cab0ca3e9876783d00000080ffffffff00000000000000000000000000000000b8eec63e68ffca3d00000080ffffffff00000000000000000000000000000000240fcbbdb8eec6be00000080ffffffff00000000000000000000000000000000504ac13e32460b3e00000080ffffffff00000000000000000000000000000000ca5d0bbe504ac1be00000080ffffffff00000000000000000000000000000000eec0b93efd782f3e00000080ffffffff000000000000000000000000000000002da82fbeeec0b9be00000080ffffffff000000000000000000000000000000004651b03e7415523e00000080ffffffff00000000000000000000000000000000f76b52be4651b0be00000080ffffffff0000000000000000000000000000000006faa43e7723733e00000080ffffffff0000000000000000000000000000000066ae73be06faa4be00000080ffffffff00000000000000000000000000000000e2b9973e3250893e00000080ffffffff00000000000000000000000000000000fcbc89bee2b997be00000080ffffffff000000000000000000000000000000000061903eafe6903e00000080ffffffff00000000000000000000000000000000726891be006190be00000080ffffffff000000000000000000000000000000006ae3883eaa26983e00000080ffffffff00000000000000000000000000000000749398bed2cb88be00000080ffffffff000000000000000000000000000000004c93723e1b42a53e00000080ffffffff000000000000000000000000000000009387a5beb81a72be00000080ffffffff00000000000000000000000000000000f8be513e847cb03e00000080ffffffff00000000000000000000000000000000c5a7b0be941451be00000080ffffffff0000000000000000000000000000000034472f3ed2d9b93e00000080ffffffff000000000000000000000000000000001bf0b9be38852ebe00000080ffffffff00000000000000000000000000000000a02e0b3e1856c13e00000080ffffffff000000000000000000000000000000009560c1bea46c0abe00000080ffffffff0000000000000000000000000000000078eaca3df4f3c63e00000080ffffffff00000000000000000000000000000000e3f7c6beb095c9bd00000080ffffffff00000000000000000000000000000000b061783d17b2ca3e00000080ffffffff0000000000000000000000000000000067b3cabe587f76bd00000080ffffffff0000000000000000000000000000000060d6a83cd191cc3e00000080ffffffff00000000000000000000000000000000d191ccbef05ca7bc00000080ffffffff00000000000000000000000000000000ccccccbe0000008000000080ffffffff0000000000000000000000000000000000000000cccccc3e00000080ffffffff00000000000000000000000000000000d191ccbe30eba83c00000080ffffffff0000000000000000000000000000000030eba8bcd191cc3e00000080ffffffff00000000000000000000000000000000987678bd17b2ca3e00000080ffffffff0000000000000000000000000000000067b3cabe9876783d00000080ffffffff00000000000000000000000000000000e3f7c6be68ffca3d00000080ffffffff00000000000000000000000000000000240fcbbdf4f3c63e00000080ffffffff000000000000000000000000000000009560c1be32460b3e00000080ffffffff00000000000000000000000000000000ca5d0bbe1856c13e00000080ffffffff000000000000000000000000000000001bf0b9befd782f3e00000080ffffffff000000000000000000000000000000002da82fbed2d9b93e00000080ffffffff00000000000000000000000000000000c5a7b0be7415523e00000080ffffffff00000000000000000000000000000000f76b52be847cb03e00000080ffffffff0000000000000000000000000000000066ae73be1b42a53e00000080ffffffff000000000000000000000000000000009387a5be7723733e00000080ffffffff00000000000000000000000000000000749398be3250893e00000080ffffffff00000000000000000000000000000000fcbc89beaa26983e00000080ffffffff00000000000000000000000000000000726891beafe6903e00000080ffffffff00000000000000000000000000000000
+  m_CompressedMesh:
+    m_Vertices:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UV:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Normals:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Tangents:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Weights:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_NormalSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_TangentSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_FloatColors:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_BoneIndices:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Triangles:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UVInfo: 0
+  m_LocalAABB:
+    m_Center: {x: 0, y: 0, z: -0}
+    m_Extent: {x: 0.39999998, y: 0.39999998, z: 0}
+  m_MeshUsageFlags: 0
+  m_BakedConvexCollisionMesh: 
+  m_BakedTriangleCollisionMesh: 
+  m_MeshOptimized: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35648741dd5b14baa82bec08abfe7457, type: 3}
+  m_Name: sharedAssets_circle
+  m_EditorClassIdentifier: 
+  _lastTimeModified: 635978993210625140
+  _documentAsset: {fileID: 11422614}
+  _sharedMesh: {fileID: 4341916}
+  _antialiasing: 0
+  _antialiasingWidth: 0
+  _generateCollider: 0
+  _keepSVGFile: 1
+  _ignoreSVGCanvas: 1
+  _colliderShape: []
+  _format: 2
+  _useGradients: 0
+  _meshCompression: 0
+  _optimizeMesh: 1
+  _generateNormals: 0
+  _generateTangents: 0
+  _scale: 0.01
+  _vpm: 5000
+  _depthOffset: 0.01
+  _compressDepth: 1
+  _pivotPoint: {x: 0.5, y: 0.5}
+  _customPivotPoint: 0
+  _border: {x: 0, y: 0, z: 0, w: 0}
+  _sliceMesh: 0
+  _sharedGradients:
+  - colorKeys:
+    - time: 1
+      color:
+        serializedVersion: 2
+        rgba: 4294967295
+    - time: 0
+      color:
+        serializedVersion: 2
+        rgba: 4294967295
+    alphaKeys:
+    - time: 1
+      alpha: 1
+    - time: 0
+      alpha: 1
+    _hash: 
+    index: 0
+    atlasIndex: 0
+    references: 0
+  _sharedShaders:
+  - SVG Importer/GradientColor/GradientColorAlphaBlended
+  _canvasRectangle:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0.79999995
+    height: 0.799
+  _layers: []
+--- !u!114 &11422614
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 363e9872ad27a4ca59c07d233fdf0023, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _errors: 
+  _svgFile: "<?xml version=\"1.0\" encoding=\"utf-8\"?>\r\n<!-- Generator: Adobe Illustrator
+    18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->\r\n<svg version=\"1.1\"
+    id=\"Layer_1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"
+    x=\"0px\" y=\"0px\"\r\n\t viewBox=\"0 0 80 79.9\" enable-background=\"new 0 0
+    80 79.9\" xml:space=\"preserve\">\r\n<g>\r\n\t<g transform=\"matrix( 1, 0, 0,
+    1, 0,0) \">\r\n\t\t<g>\r\n\t\t\t<g id=\"Layer1_0_FILL\">\r\n\t\t\t\t<path fill=\"#FFFFFF\"
+    d=\"M68.2,11.7C60.5,3.9,51.1,0,40,0S19.5,3.9,11.6,11.7C3.9,19.5,0,28.9,0,40c0,11,3.9,20.4,11.6,28.2\r\n\t\t\t\t\tC19.5,76.1,28.9,80,40,80s20.5-3.9,28.2-11.7C76.1,60.5,80,51,80,40C80,28.9,76.1,19.5,68.2,11.7z\"/>\r\n\t\t\t</g>\r\n\t\t</g>\r\n\t</g>\r\n</g>\r\n</svg>\r\n"
+  _title: 
+  _description: 

@@ -1,0 +1,23 @@
+{
+    "name": "Raindrops",
+    "references": [
+        "GUID:a5b4304f85b8c4a9eb84e31593ea821f",
+        "GUID:172ec47c64555a844817a8da45b36f40",
+        "GUID:68550284b645f4b9894995579f34290a",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+    ],
+    "includePlatforms": [
+        "Android",
+        "Editor",
+        "iOS",
+        "WebGL"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
